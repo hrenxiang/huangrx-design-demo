@@ -39,3 +39,8 @@ nbdist/
 
 log/
 logs/
+
+mvnw
+mvnw.cmd
+HELP.md
+.mvn
